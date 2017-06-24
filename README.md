@@ -1,2 +1,2 @@
 # spirit-quest
-top-down RPG game where you can choose to be Good or Evil.
+top-down RPG where you can choose to be Good or Evil.
